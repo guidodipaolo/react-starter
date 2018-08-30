@@ -1,4 +1,4 @@
-# React Starter by Guido Di Paolo
+# React Starter
 
 Download the repo and `npm install`
 
